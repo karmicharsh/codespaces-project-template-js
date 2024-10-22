@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Aspiring software engineer with a focus on full-stack development and a passion for problem-solving. Skilled in frontend technologies like React and backend tools such as Express, Firebase, and GraphQl. Strong DSA enthusiast, with experience building dynamic web applications, e-commerce platforms.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Full-stack development",
+  "Cross-Platfrom app development ",
+  "Data structures & algorithms",
+  "Database Managment",
+  "Backend development",
+  "Frontend development",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I'm passionate about solving complex problems with efficient solutions. By combining my full-stack expertise and problem-solving mindset, I constantly strive to create innovative tech that enhances user experience and simplifies accessibility for all.";
 
 const About = () => {
   return (

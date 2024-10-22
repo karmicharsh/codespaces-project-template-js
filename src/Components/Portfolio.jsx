@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Monksquare",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Developed a dynamic e-commerce website for a local brand MonkSquare using HTML, CSS, and JavaScript, integrating Firebase for real-time data management and Stripe for secure payment processing",
+    url: "https://github.com/karmicharsh/Monksq-2",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Ecommerce Store",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Built Thapa Store: A responsive e-commerce frontend using React and Vite, featuring product listings and cart functionality",
+    url: "https://github.com/karmicharsh/thapa-react-ecom",
   },
   {
-    title: "My Resume Site",
+    title: "Full stack blogging app",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Developed a Medium-like platform with a React frontend and Cloudflare Workers backend. Utilized Zod for type validation and Prisma with connection pooling for ORM. Implemented JWT for secure authentication and managed data with postgres.",
+    url: "https://github.com/karmicharsh/fullStack-Blog",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Catalouge app",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A responsive catalouge of tech gadgets made using dart and flutter.",
+    url: "https://github.com/deepnp7/Flutter-Project",
   },
 ];
 
